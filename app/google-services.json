@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "426371471592",
+    "firebase_url": "https://eureka2k21-default-rtdb.firebaseio.com",
+    "project_id": "eureka2k21",
+    "storage_bucket": "eureka2k21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426371471592:android:3e236183aabe0879f4115d",
+        "android_client_info": {
+          "package_name": "com.androtechbuddy.eureka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426371471592-3cdpcjp2hgp1fg1l6hda9osgutcvum28.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androtechbuddy.eureka",
+            "certificate_hash": "dc5e91c6b304c4f05cfaeebaf4df33639fd1db6e"
+          }
+        },
+        {
+          "client_id": "426371471592-ht2n5ssb13bo1fn98lh3eotgk767ufl3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androtechbuddy.eureka",
+            "certificate_hash": "b6ef4c853d5120a92b1ac6cc7401e501e0098a6b"
+          }
+        },
+        {
+          "client_id": "426371471592-kcemnn4afnlma77h412a8lilcn2mopp5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androtechbuddy.eureka",
+            "certificate_hash": "ed8fa4a8b2cf620242f18d1f69c0bf1e241ca586"
+          }
+        },
+        {
+          "client_id": "426371471592-37roblk7v30unej21a996g4it88n480c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSSI69CTdWr9HrL3bVBiJSiHXb_auhxmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426371471592-37roblk7v30unej21a996g4it88n480c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426371471592:android:85d9681f06b06a61f4115d",
+        "android_client_info": {
+          "package_name": "com.androtechbuddy.eurekaadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426371471592-37roblk7v30unej21a996g4it88n480c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSSI69CTdWr9HrL3bVBiJSiHXb_auhxmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426371471592-37roblk7v30unej21a996g4it88n480c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
